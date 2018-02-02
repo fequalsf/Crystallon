@@ -1,5 +1,4 @@
 # Crystallon
-Lattice Structure tools for Grasshopper3D
 Crystallon is an open source project for creating lattice structures using Rhino and Grasshopper3D. It was
 developed at FATHOM (www.studiofathom.com) by Aaron Porterfield (www.fequalsf.com) as an alternative to
 commercially available software for lattice design. The obvious advantage is the ability to generate lattice
