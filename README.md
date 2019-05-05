@@ -8,4 +8,4 @@ decision to release it as open source was not only to share it with the communit
 through it’s users. We realize not all users will have the same applications and needs, so we hope to receive
 feedback and improvements from users with unique case studies. Each tool is left as a cluster which can be
 opened and modified at will, in the spirit of open source. We hope the community will continue to develop and
-contribute through the use of the Grasshopper forums and Github.
+contribute through the use of the Grasshopper forums (https://www.grasshopper3d.com/group/crystallon) and Github.
